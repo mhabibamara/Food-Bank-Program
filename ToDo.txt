@@ -1,0 +1,9 @@
+Technically: Highest Priority First
+
+-> Searching the arrayLists for the item that "best fills the nutritional gap"
+-> Comparing different possible combinations/outcomes (using getters)
+
+
+Other Stuff: (No real order here)
+-> Start filling out Hamper, HamperNutritionalValues, and OrderForm Classes
+-> AT SOME POINT: Reevaluate the UML, get someone to add to it and change it 
